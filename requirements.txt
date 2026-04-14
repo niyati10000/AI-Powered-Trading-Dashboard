@@ -1,0 +1,12 @@
+torch
+transformers
+sentencepiece
+pandas
+numpy
+yfinance
+easyocr
+streamlit
+streamlit-autorefresh
+scikit-learn
+opencv-python
+plotly
